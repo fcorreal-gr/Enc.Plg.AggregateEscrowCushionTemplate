@@ -1,0 +1,5 @@
+C:\d\Github\C#\Enc.Plg.AggregateEscrowCushionTemplate\EscrowCushionSetter\EscrowCushionSetter\obj\Debug\EscrowCushionSetter.csprojResolveAssemblyReference.cache
+C:\d\Github\C#\Enc.Plg.AggregateEscrowCushionTemplate\EscrowCushionSetter\EscrowCushionSetter\bin\Debug\Enc.Plg.AggregateEscrowCushionTemplate.dll
+C:\d\Github\C#\Enc.Plg.AggregateEscrowCushionTemplate\EscrowCushionSetter\EscrowCushionSetter\bin\Debug\Enc.Plg.AggregateEscrowCushionTemplate.pdb
+C:\d\Github\C#\Enc.Plg.AggregateEscrowCushionTemplate\EscrowCushionSetter\EscrowCushionSetter\obj\Debug\Enc.Plg.AggregateEscrowCushionTemplate.dll
+C:\d\Github\C#\Enc.Plg.AggregateEscrowCushionTemplate\EscrowCushionSetter\EscrowCushionSetter\obj\Debug\Enc.Plg.AggregateEscrowCushionTemplate.pdb
